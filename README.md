@@ -6,4 +6,4 @@ Introduction to OOP in javascript with ES6
  - Open console
  - Navigate into project folder location
  - Type "npm install" on console
- - Type "npm run dev" to run the application.
+ - Type "npm run dev" on console to run the application
